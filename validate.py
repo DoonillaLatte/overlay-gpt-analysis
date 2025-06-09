@@ -7,6 +7,9 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+import json
+from datetime import datetime
+import os
 
 # — 속성 분류를 "숫자 vs. 문자열 vs. 숏핸드"로 구분 —
 NUMERIC_PROPS = {
@@ -384,6 +387,120 @@ def plot_vectors(orig_feats, labels, new_feats, new_labels, overall_similarity):
     plt.grid(True, alpha=0.3)
     plt.show()
 
+def get_report_options():
+    # 옵션 선택을 위한 팝업 창 생성
+    popup = tk.Toplevel(root)
+    popup.title("보고서 옵션")
+    popup.geometry("300x300")
+    
+    # 중앙 정렬을 위한 프레임
+    frame = ttk.Frame(popup, padding="10")
+    frame.pack(fill="both", expand=True)
+    
+    # 옵션 선택을 위한 변수
+    option_var = tk.StringVar(value="project")
+    
+    # 라디오 버튼으로 옵션 선택
+    ttk.Label(frame, text="보고서 유형을 선택하세요:").pack(pady=(0, 10))
+    ttk.Radiobutton(frame, text="project", variable=option_var, value="project").pack(pady=2)
+    ttk.Radiobutton(frame, text="comparison", variable=option_var, value="comparison").pack(pady=2)
+    
+    # 파일 이름 입력 필드
+    ttk.Label(frame, text="파일 이름을 입력하세요:").pack(pady=(10, 5))
+    filename_var = tk.StringVar()
+    entry = ttk.Entry(frame, textvariable=filename_var, width=30)
+    entry.pack(pady=5)
+    
+    # 결과를 저장할 변수
+    result = {"filename": None, "option": None}
+    
+    def on_ok():
+        filename = filename_var.get().strip()
+        if filename:
+            result["filename"] = filename
+            result["option"] = option_var.get()
+            popup.destroy()
+    
+    def on_cancel():
+        popup.destroy()
+    
+    # 버튼 프레임
+    btn_frame = ttk.Frame(frame)
+    btn_frame.pack(pady=5)
+    
+    ttk.Button(btn_frame, text="확인", command=on_ok).pack(side="left", padx=5)
+    ttk.Button(btn_frame, text="취소", command=on_cancel).pack(side="left", padx=5)
+    
+    # 팝업 창을 모달로 설정
+    popup.transient(root)
+    popup.grab_set()
+    
+    # 엔터 키 바인딩
+    entry.bind('<Return>', lambda e: on_ok())
+    
+    # 창이 닫힐 때까지 대기
+    root.wait_window(popup)
+    return result["filename"], result["option"]
+
+def generate_report():
+    orig_text = txt_orig.get('1.0', tk.END)
+    new_text = txt_new.get('1.0', tk.END)
+
+    # data 폴더가 없으면 생성
+    if not os.path.exists('data'):
+        os.makedirs('data')
+
+    # 벡터화
+    orig_vectors = vectorize_html(orig_text)
+    new_vectors = vectorize_html(new_text)
+
+    # DictVectorizer & features 생성
+    dv, orig_feats, labels = prepare_classifier(orig_vectors)
+    new_feats = dv.transform([r['style_vector'] for r in new_vectors])
+
+    # 전체 유사도 계산
+    conformity_scores = calculate_conformity_knn(orig_feats, new_feats, k=5)
+    overall_similarity = np.mean(conformity_scores)
+
+    # 속성별 유사도 계산
+    prop_similarities, prop_details = calculate_property_similarity(orig_vectors, new_vectors)
+
+    # 태그별 유사도 계산
+    tag_similarities = {}
+    for idx, vec in enumerate(new_vectors):
+        tag_similarities[vec['tag']] = {
+            'similarity': float(conformity_scores[idx]),
+            'style_vector': vec['style_vector']
+        }
+
+    # 보고서 데이터 구성
+    report_data = {
+        'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+        'overall_similarity': float(overall_similarity),
+        'property_similarities': prop_similarities,
+        'property_details': prop_details,
+        'tag_similarities': tag_similarities
+    }
+
+    # 파일 이름과 옵션 입력 받기
+    filename, option = get_report_options()
+    
+    if filename:  # 사용자가 취소하지 않은 경우에만 저장
+        # .json 확장자가 없으면 추가
+        if not filename.endswith('.json'):
+            filename += '.json'
+        
+        # 옵션에 따른 폴더 생성
+        option_folder = os.path.join('data', option)
+        if not os.path.exists(option_folder):
+            os.makedirs(option_folder)
+        
+        # 선택된 폴더 안에 저장
+        filepath = os.path.join(option_folder, filename)
+        with open(filepath, 'w', encoding='utf-8') as f:
+            json.dump(report_data, f, ensure_ascii=False, indent=2)
+        messagebox.showinfo("보고서 생성", f"보고서가 {filepath}에 저장되었습니다.")
+
 root = tk.Tk()
 root.title("HTML 인라인 스타일 벡터화 및 k-NN 태그 부합도 시각화")
 
@@ -407,17 +524,20 @@ btn_similarity.grid(row=4, column=0, columnspan=2, pady=5)
 btn_tag_similarity = tk.Button(root, text="태그별 부합도 확인", command=show_tag_similarity)
 btn_tag_similarity.grid(row=5, column=0, columnspan=2, pady=5)
 
-tk.Label(root, text="스타일 속성 처리 로그").grid(row=6, column=0, columnspan=2, padx=5, pady=5)
+btn_report = tk.Button(root, text="보고서 생성", command=generate_report)
+btn_report.grid(row=6, column=0, columnspan=2, pady=5)
+
+tk.Label(root, text="스타일 속성 처리 로그").grid(row=7, column=0, columnspan=2, padx=5, pady=5)
 txt_log = scrolledtext.ScrolledText(root, width=100, height=10, state='disabled')
-txt_log.grid(row=7, column=0, columnspan=2, padx=5, pady=5)
+txt_log.grid(row=8, column=0, columnspan=2, padx=5, pady=5)
 
-tk.Label(root, text="원본 벡터화 결과").grid(row=8, column=0, padx=5, pady=5)
+tk.Label(root, text="원본 벡터화 결과").grid(row=9, column=0, padx=5, pady=5)
 txt_orig_result = scrolledtext.ScrolledText(root, width=50, height=20, state='disabled')
-txt_orig_result.grid(row=9, column=0, padx=5, pady=5)
+txt_orig_result.grid(row=10, column=0, padx=5, pady=5)
 
-tk.Label(root, text="변경된 벡터화 결과").grid(row=8, column=1, padx=5, pady=5)
+tk.Label(root, text="변경된 벡터화 결과").grid(row=9, column=1, padx=5, pady=5)
 txt_new_result = scrolledtext.ScrolledText(root, width=50, height=20, state='disabled')
-txt_new_result.grid(row=9, column=1, padx=5, pady=5)
+txt_new_result.grid(row=10, column=1, padx=5, pady=5)
 
 root.after(100, load_file)
 root.mainloop()
