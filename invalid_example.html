@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Document</title>
+<body>
+    <p align=center style='text-align:center;line-height:normal;'><b><span style='font-size:22.0pt;'>디스크 운반 게임<span> v2.0</span></span></b></p>
+
+<p style='line-height:normal;'></p>
+
+<p style='line-height:normal;'><b><span style='font-size:14.0pt;'>게임
+개요</span></b></p>
+
+<p style='line-height:normal;'><span>1. </span>개인전으로 진행합니다<span>.</span></p>
+
+<p style='line-height:normal;'><span>2. </span>공격과 수비로
+나누어 진행합니다<span>.</span></p>
+
+<p style='line-height:normal;'><span>3. </span>공격은 제한시간
+내에 최대한 많은 디스크를 운반하여 수비팀 기지에 넣어야 합니다<span>.</span></p>
+
+<p style='line-height:normal;'></p>
+
+<p style='line-height:normal;'><b><span style='font-size:14.0pt;'>게임
+기본 규칙</span></b></p>
+
+<p style='line-height:normal;'><span>- </span>라운드 시간<span> : 1</span>분<span>30</span>초<span>(90</span>초<span>), </span>디스크 수<span> : 7</span>개</p>
+
+<p style='line-height:normal;'><span>- </span>공격은 <span>Play Area </span>내에서만 활동 가능<span>, </span>수비는<span> A, B Zone </span>내에서만 활동 가능</p>
+
+<p style='line-height:normal;'><span>- </span>공격은 디스크를<span> A Zone </span>혹은<span> B Zone</span>에 넣어 점수를 획득할 수 있음<span>.</span></p>
+
+<p style='line-height:normal;'><span>- A Zone</span>의
+경우<span> 1</span>점<span>, B Zone </span>혹은 넘어가는 경우에는 <span>2</span>점 을 획득함<span>.</span></p>
+
+<p style='line-height:normal;'><span>- </span>수비는<span> A Zone </span>위에 있는 디스크를 다시<span> Play Area</span>로 보낼 수
+있음<span>.(B Zone</span>은 불가능<span>)</span></p>
+
+<p style='line-height:normal;'><span>- </span>로봇 규격<span> : 30cm x 30cm x 30</span>츠</p>
+
+<p style='line-height:normal;'></p>
+
+<p style='line-height:normal;'><b><span style='font-size:14.0pt;'>경기
+맵 구조</span></b></p>
+
+<p style='line-height:normal;'><span style='mso-no-proof:yes;'><img width=634 height=237 src="C:\Projects\overlay-gpt\overlay-gpt-dotnet\bin\Debug\net9.0-windows\images\2d0c339a-407e-4c99-b897-409a39df98e6.jpg" v:shapes="그림_x0020_1"></span></p>
+
+<p style='line-height:normal;'><span>※ A Zone </span>길이는
+<span>30cm, </span>그 뒤로는 전부<span> B Zone</span></p>
+
+<p style='line-height:normal;'></p>
+
+<p style='line-height:normal;'><b><span style='font-size:14.0pt;'>점수
+계산 방식</span></b></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><b><span style='font-size:11.0pt;color:blue;'>수비</span></b><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>학생<span>A</span></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>학생<span>B</span></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>학생<span>C</span></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>학생<span>D</span></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>학생<span>E</span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><b><span style='font-size:11.0pt;color:red;'>공격</span></b><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;color:blue;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>학생<span>A</span></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;color:red;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;color:blue;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;color:red;'>4</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;color:red;'>2</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;color:red;'>6</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;color:red;'>5</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>학생<span>B</span></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;color:blue;'>3</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>2</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>1</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>7</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>학생<span>C</span></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;color:blue;'>3</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>2</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>6</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>2</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>학생<span>D</span></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;color:blue;'>4</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>1</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>4</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>9</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>학생<span>E</span></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;color:blue;'>8</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>3</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>4</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'>3</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;line-height:normal;'><span style='font-size:11.0pt;'></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p style='line-height:normal;'></p>
+
+<p style='line-height:normal;'>두 학생의 경기 <b>한 판당<span>
+2</span>라운드</b>를 진행하며 두 라운드의 평균점수를 최종 점수로 반영<b></b></p>
+
+<p style='line-height:normal;'><b></b></p>
+
+<p style='line-height:normal;'><b><span>Ex) </span>학생<span>A</span>의 총점</b></p>
+
+<p style='line-height:normal;'>학생<span>A</span>가 공격일 때
+얻은 점수<span> - </span>학생<span>A</span>가 수비일 때 막지 못한 점수<span> = 17 - 18 = <b><span style='color:#289B6E;'>-1</span></b></span><b><span style='color:#289B6E;'>점</span></b></p>
+
+<p style='line-height:normal;'></p>
+
+<b><span style='font-size:14.0pt;font-family:"맑은 고딕";mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:
+EN-US;mso-fareast-language:KO;mso-bidi-language:AR-SA;'><br clear=all style='mso-special-character:line-break;page-break-before:always;'>
+</span></b>
+
+<p style='line-height:normal;'><b><span style='font-size:14.0pt;'></span></b></p>
+
+<p style='line-height:normal;'><b><span style='font-size:14.0pt;'>게임
+세부 규칙</span></b></p>
+
+<p style='line-height:normal;'><b><span style='font-size:12.0pt;'>로봇
+룰</span></b></p>
+
+<p style='line-height:normal;'><span>- </span>로봇 수리는 해당
+라운드가 끝난 이후 가능</p>
+
+<p style='line-height:normal;'><span>- </span>게임 진행을 크게
+해치지 않는 한<span>, </span>의도가 아닌 실수라고 판단되는 경우에는 패널티를 부여하지 않음</p>
+
+<p style='line-height:normal;'><span>- </span>각 로봇이 활동
+영역을 넘어가면 안됨</p>
+
+<p style='line-height:normal;'></p>
+
+<p style='line-height:normal;'><b><span style='font-size:12.0pt;'>디스크
+룰</span></b></p>
+
+<p style='line-height:normal;'><span>- </span>디스크가<span> Zone</span>에 완전히 들어가야 점수로 인정됨</p>
+
+<p style='line-height:normal;'><span>- </span>경기 진행 중
+경기장 바깥으로 나간 디스크들은 더 이상 건들지 못함</p>
+
+<p style='line-height:normal;'></p>
+
+<h2 style='margin-top:0cm;margin-right:0cm;margin-bottom:15.0pt;margin-left:
+0cm;background:#FFFBE6;'><span style='font-size:24.0pt;mso-ascii-font-family:
+"Arial Black";mso-hansi-font-family:"Arial Black";mso-bidi-font-family:"Courier New";color:#F76D6D;letter-spacing:1.5pt;'>새로운</span><span style='font-size:24.0pt;font-family:"Arial Black",sans-serif;mso-bidi-font-family:"Courier New";color:#F76D6D;letter-spacing:1.5pt;'> </span><span style='font-size:24.0pt;mso-ascii-font-family:"Arial Black";mso-hansi-font-family:"Arial Black";mso-bidi-font-family:"Courier New";color:#F76D6D;letter-spacing:1.5pt;'>전략</span><span style='font-size:24.0pt;font-family:"Arial Black",sans-serif;mso-bidi-font-family:
+"Courier New";color:#F76D6D;letter-spacing:1.5pt;'> </span><span style='font-size:24.0pt;mso-ascii-font-family:"Arial Black";mso-hansi-font-family:
+"Arial Black";mso-bidi-font-family:"Courier New";color:#F76D6D;letter-spacing:
+1.5pt;'>팁</span><span style='font-size:24.0pt;font-family:"Arial Black",sans-serif;mso-bidi-font-family:"Courier New";color:#F76D6D;letter-spacing:1.5pt;'></span></h2>
+
+<ul type=disc>
+ <li style='color:#1A1A1A;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;text-align:left;line-height:normal;mso-pagination:widow-orphan;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;background:#FFFBE6;text-autospace:ideograph-numeric ideograph-other;word-break:keep-all;'><b><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";color:#FCB69F;letter-spacing:
+     1.15pt;'>빠른</span></b><b><span style='font-size:12.5pt;font-family:"Courier New";color:#FCB69F;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";color:#FCB69F;letter-spacing:
+     1.15pt;'>판단력</span></b><span style='font-size:12.5pt;mso-ascii-font-family:
+     "Courier New";mso-hansi-font-family:"Courier New";mso-bidi-font-family:
+     "Courier New";letter-spacing:1.15pt;'>이</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>승부를</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>가릅니다</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:
+     1.15pt;'>. </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:"Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>디스크를</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>집을</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>때</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:
+     1.15pt;'>, </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:"Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>상대</span><span style='font-size:12.5pt;font-family:
+     "Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:"Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>수비의</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>위치를</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>빠르게</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>파악하세요</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:
+     1.15pt;'>.</span></li>
+ <li style='color:#1A1A1A;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;text-align:left;line-height:normal;mso-pagination:widow-orphan;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;background:#FFFBE6;text-autospace:ideograph-numeric ideograph-other;word-break:keep-all;'><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>수비</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>시</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='border-radius:4px;'><span style='font-size:12.5pt;font-family:"Courier New";color:white;letter-spacing:1.15pt;background:
+     #F76D6D;'>A Zone</span></span><span style='font-size:12.5pt;mso-ascii-font-family:
+     "Courier New";mso-hansi-font-family:"Courier New";mso-bidi-font-family:
+     "Courier New";letter-spacing:1.15pt;'>에</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>집중</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>배치하면</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>공격의</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>효율을</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>낮출</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>수</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>있습니다</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:
+     1.15pt;'>.</span></li>
+ <li style='color:#1A1A1A;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;text-align:left;line-height:normal;mso-pagination:widow-orphan;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;background:#FFFBE6;text-autospace:ideograph-numeric ideograph-other;word-break:keep-all;'><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>라운드</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>종료</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>직전</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:
+     1.15pt;'>, </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:"Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>남은</span><span style='font-size:12.5pt;font-family:
+     "Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:"Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>디스크</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>위치를</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>확인하여</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><u><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>최후의</span></u><u><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span></u><u><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>점수</span></u><u><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span></u><u><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>기회</span></u><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>를</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:1.15pt;'> </span><span style='font-size:12.5pt;mso-ascii-font-family:"Courier New";mso-hansi-font-family:
+     "Courier New";mso-bidi-font-family:"Courier New";letter-spacing:1.15pt;'>노리세요</span><span style='font-size:12.5pt;font-family:"Courier New";letter-spacing:
+     1.15pt;'>.</span></li>
+</ul>
+
+<p style='margin-bottom:0cm;background:#FCB69F;'><b><span style='font-size:13.0pt;line-height:107%;font-family:"Segoe UI Emoji",sans-serif;mso-bidi-font-family:"Segoe UI Emoji";color:white;letter-spacing:1.15pt;'>&#128161;</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:14.5pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>TIP:</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:13.0pt;line-height:107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>팀원끼리</span></b><b><span style='font-size:
+13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:13.0pt;line-height:107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:
+"Comic Sans MS";mso-bidi-font-family:"Courier New";color:#FFFBE6;letter-spacing:
+1.15pt;'>간단한</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:#FFFBE6;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:13.0pt;line-height:
+107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:#FFFBE6;letter-spacing:1.15pt;'>사인</span></b><b><span style='font-size:13.0pt;line-height:107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>을</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:13.0pt;line-height:107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:
+"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:
+1.15pt;'>미리</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:13.0pt;line-height:
+107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>정해두면</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>, </span></b><b><span style='font-size:13.0pt;line-height:107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>공격</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>/</span></b><b><span style='font-size:13.0pt;line-height:107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>수비</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:13.0pt;line-height:107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:
+"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:
+1.15pt;'>전환</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:13.0pt;line-height:
+107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>시</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:13.0pt;line-height:107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>혼동을</span></b><b><span style='font-size:
+13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:13.0pt;line-height:107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:
+"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:
+1.15pt;'>줄일</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:13.0pt;line-height:
+107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>수</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'> </span></b><b><span style='font-size:13.0pt;line-height:107%;mso-ascii-font-family:"Comic Sans MS";mso-hansi-font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>있습니다</span></b><b><span style='font-size:13.0pt;line-height:107%;font-family:"Comic Sans MS";mso-bidi-font-family:"Courier New";color:white;letter-spacing:1.15pt;'>! </span></b><span style='font-size:11.0pt;line-height:107%;font-family:"Courier New";color:#1A1A1A;letter-spacing:1.15pt;'></span></p>
+
+<p></p>
+
+<p style='line-height:normal;'></p>
+</body>
+</head>
+</html>

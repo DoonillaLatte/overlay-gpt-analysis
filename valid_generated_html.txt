@@ -1,0 +1,543 @@
+<p align=center style='text-align:center;'><b><span style='font-size:22.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>디스크</span></b><b><span style='font-size:22.0pt;font-family:"Arial",sans-serif;'>
+</span></b><b><span style='font-size:22.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>운반</span></b><b><span style='font-size:22.0pt;font-family:"Arial",sans-serif;'> </span></b><b><span style='font-size:22.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>게임</span></b><b><span style='font-size:
+22.0pt;font-family:"Arial",sans-serif;'> v2.0</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>게임</span></b><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;'> </span></b><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>개요</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>1. </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>개인전으로</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>진행합니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>2. </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>공격과</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>수비로</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>나누어</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>진행합니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>3. </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>공격은</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>제한시간</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>내에</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>최대한</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>많은</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>디스크를</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>운반하여</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>수비팀</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>기지에</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>넣어야</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>합니다</span><span style='font-size:
+11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>4. </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경기는</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>체육관</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>또는</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>지정된</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경기장에서</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>진행됩니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>5. </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>모든</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>참가자는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>사전에</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>안전</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>교육을</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>이수해야</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>합니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>게임</span></b><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;'> </span></b><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>기본</span></b><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;'>
+</span></b><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>규칙</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>라운드</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>시간</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> : 1</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>분</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>30</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>초</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>(90</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>초</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>), </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>디스크</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>수</span><span style='font-size:
+11.0pt;font-family:"Arial",sans-serif;'> : 7</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>개</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>공격은</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> Play Area </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>내에서만</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>활동</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>가능</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>,
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>수비는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> <span>A, B Zone </span></span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>내에서만</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>활동</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>가능</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>공격은</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>디스크를</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> A Zone </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>혹은</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> B Zone</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>에</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>넣어</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>점수를</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>획득할</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>수</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>있음</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- A
+Zone</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>의</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경우</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> 1</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>점</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>,
+B Zone </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>혹은</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>넘어가는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>경우에는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+2</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>점</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>을</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>획득함</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>수비는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> A Zone </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>위에</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>있는</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>디스크를</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>다시</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> Play Area</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>로</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>보낼</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>수</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>있음</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.(B Zone</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>은</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>불가능</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>)</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>로봇</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>규격</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> : 30cm x
+30cm x 30cm</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경기</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>중</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>심판의</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>지시에</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>반드시</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>따라야</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>하며</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>, </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>심판의</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>판단이</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>최종입니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>고의적인</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>방해</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>행위</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>(</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>로봇</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>충돌</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>, </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>고의적</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>디스크</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>파손</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>등</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>)</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>실격</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>또는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>점수</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>감점</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>사유가</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>됩니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경기</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>중</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>안전을</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>위해</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>로봇</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>작동이</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>급히</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>중단될</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>수</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>있습니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>경기</span></b><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;'> </span></b><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>맵</span></b><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;'>
+</span></b><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>구조</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;mso-no-proof:yes;'><img width=634 height=237 src="C:\Projects\overlay-gpt\overlay-gpt-dotnet\bin\Debug\net9.0-windows\images\b4fb04fb-0946-4a42-922e-36d5f52e26c2.jpg" v:shapes="_x0000_i1025"></span><span style='font-size:
+11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"맑은 고딕";mso-bidi-font-family:"맑은 고딕";'>※</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> A Zone </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>길이는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> 30cm, </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>그</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>뒤로는</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>전부</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> B Zone</span></p>
+
+<p><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>점수</span></b><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;'> </span></b><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>계산</span></b><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;'>
+</span></b><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>방식</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><b><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+  Arial;mso-bidi-font-family:Arial;color:blue;'>수비</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+  Arial;mso-bidi-font-family:Arial;'>학생</span><span style='font-size:
+  11.0pt;font-family:"Arial",sans-serif;'>A</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+  Arial;mso-bidi-font-family:Arial;'>학생</span><span style='font-size:
+  11.0pt;font-family:"Arial",sans-serif;'>B</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+  Arial;mso-bidi-font-family:Arial;'>학생</span><span style='font-size:
+  11.0pt;font-family:"Arial",sans-serif;'>C</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+  Arial;mso-bidi-font-family:Arial;'>학생</span><span style='font-size:
+  11.0pt;font-family:"Arial",sans-serif;'>D</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+  Arial;mso-bidi-font-family:Arial;'>학생</span><span style='font-size:
+  11.0pt;font-family:"Arial",sans-serif;'>E</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><b><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+  Arial;mso-bidi-font-family:Arial;color:red;'>공격</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+  Arial;mso-bidi-font-family:Arial;'>학생</span><span style='font-size:
+  11.0pt;font-family:"Arial",sans-serif;'>A</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;color:red;'>4</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;color:red;'>2</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;color:red;'>6</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;color:red;'>5</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+  Arial;mso-bidi-font-family:Arial;'>학생</span><span style='font-size:
+  11.0pt;font-family:"Arial",sans-serif;'>B</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;color:blue;'>3</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>2</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>1</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>7</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+  Arial;mso-bidi-font-family:Arial;'>학생</span><span style='font-size:
+  11.0pt;font-family:"Arial",sans-serif;'>C</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;color:blue;'>3</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>2</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>6</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>2</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+  Arial;mso-bidi-font-family:Arial;'>학생</span><span style='font-size:
+  11.0pt;font-family:"Arial",sans-serif;'>D</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;color:blue;'>4</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>1</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>4</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>9</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes;height:48.15pt;'>
+  <td width=64 style='width:48.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+  Arial;mso-bidi-font-family:Arial;'>학생</span><span style='font-size:
+  11.0pt;font-family:"Arial",sans-serif;'>E</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;color:blue;'>8</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>3</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>4</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'>
+  <p align=center style='margin-bottom:0cm;text-align:center;'><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>3</span></p>
+  </td>
+  <td width=64 style='width:48.15pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;background:#262626;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt;'></td>
+ </tr>
+</table>
+
+</div>
+
+<p><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>두</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>학생의</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>경기</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><b><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>한</span></b><b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span></b><b><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>판당</span></b><b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> 2</span></b><b><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>라운드</span></b><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>를</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>진행하며</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>두</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>라운드의</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>평균점수를</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>최종</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>점수로</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>반영</span><span style='font-size:
+11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>Ex)
+</span></b><b><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>학생</span></b><b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>A</span></b><b><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>의</span></b><b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span></b><b><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>총점</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>학생</span><span style='font-size:
+11.0pt;font-family:"Arial",sans-serif;'>A</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>가</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>공격일</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>때</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>얻은</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>점수</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> - </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>학생</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>A</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>가</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>수비일</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>때</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>막지</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>못한</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>점수</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> = 17 - 18 = <b><span style='color:#289B6E;'>-1</span></b></span><b><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;color:#289B6E;'>점</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<b><span style='font-size:14.0pt;line-height:107%;font-family:"맑은 고딕";mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:
+minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:KO;mso-bidi-language:
+AR-SA;'><br clear=all style='mso-special-character:line-break;page-break-before:
+always;'>
+</span></b>
+
+<p><span style='font-size:11.0pt;line-height:107%;font-family:"Arial",sans-serif;'></span></p>
+
+<p><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>게임</span></b><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;'> </span></b><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>세부</span></b><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;'>
+</span></b><b><span style='font-size:14.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>규칙</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><b><span style='mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>로봇</span></b><b><span style='font-family:"Arial",sans-serif;'>
+</span></b><b><span style='mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>룰</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>로봇</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>수리는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>해당</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>라운드가</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>끝난</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>이후</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>가능</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>게임</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>진행을</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>크게</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>해치지</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>않는</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>한</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>, </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>의도가</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>아닌</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>실수라고</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>판단되는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>경우에는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>패널티를</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>부여하지</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>않음</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>각</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>로봇이</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>활동</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>영역을</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>넘어가면</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>안됨</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>로봇은</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경기</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>시작</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>전</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>심판의</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>점검을</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>받아야</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>하며</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>, </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>규격</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>미준수</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>시</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>참가가</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>제한될</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>수</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>있습니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>로봇의</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>무선</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>통신</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>장애</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>, </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>배터리</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>방전</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>등</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>기술적</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>문제</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>발생</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>시</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>한</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>번의</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>재시도</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>기회가</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>주어집니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><b><span style='mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>디스크</span></b><b><span style='font-family:"Arial",sans-serif;'>
+</span></b><b><span style='mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>룰</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>디스크가</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> Zone</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>에</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>완전히</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>들어가야</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>점수로</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>인정됨</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경기</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>진행</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>중</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경기장</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>바깥으로</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>나간</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>디스크들은</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>더</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>이상</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>건들지</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>못함</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경기장</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>내에</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>남아있는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>디스크만</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>점수</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>집계에</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>포함됩니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경기</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>종료</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>후</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>심판의</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>점수</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>확인</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>전</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>디스크를</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>이동할</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경우</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>실격</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>처리될</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>수</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>있습니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><b><span style='mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>기타</span></b><b><span style='font-family:"Arial",sans-serif;'>
+</span></b><b><span style='mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>규정</span></b><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'></span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>모든</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>참가자는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경기</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>중</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>안전</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>장비</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>(</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>예</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>: </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>보호안경</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>,
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>장갑</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>등</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>)</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>를</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>착용해야</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>합니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>심판</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>, </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>운영진</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>,
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>타</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>참가자에</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>대한</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>비신사적</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>
+</span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;'>언행은</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>경고</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>또는</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>실격</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>사유가</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>될</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>수</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>있습니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>- </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>경기</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>중</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>발생하는</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial;'>모든</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>문제는</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>심판</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>및</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>운영진의</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>판단에</span><span style='font-size:11.0pt;font-family:
+"Arial",sans-serif;'> </span><span style='font-size:11.0pt;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;'>따릅니다</span><span style='font-size:11.0pt;font-family:"Arial",sans-serif;'>.</span></p>
+
+<p></p>
